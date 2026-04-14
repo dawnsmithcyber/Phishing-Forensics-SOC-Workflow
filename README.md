@@ -98,3 +98,7 @@ Standard layout for legally defensible documentation:
 ---
 
 **Final Note:** Treat your KQL queries and sandbox reports as Expert Witness Testimony. Save raw outputs as `.txt` files alongside your final PDF report to ensure full transparency during legal discovery.
+
+---
+© 2026 Dawn Marie Smith, CFE. All Rights Reserved. 
+Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited.
